@@ -1,0 +1,93 @@
+body{
+    background-color: gray;
+}
+.title{
+    color: rgb(255, 255, 255);
+    margin: 10px auto;
+}
+.marvel{
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.marvel1{
+    width: 300px;
+    height: 200px;
+    background: #95483f;
+    background-image: linear-gradient(90deg, #000004, #160b39, #420a68, #6a176e, #932667, #ba3655, #dd513a, #f3761b, #fca50a, #f6d746, #f6d746);;
+    position: relative;
+    margin: 30px;
+}
+.marvel2{
+    width: 300px;
+    height: 200px;
+    background: #4a7d70;
+    background-image: linear-gradient(90deg, #4faa25, #5fc246, #878641, #32b186, #1cd64ba9, #21908d, #22a884, #42be71, #7ad151, #bddf26, #bddf26);
+    position: relative;
+    margin: 30px;
+}
+.marvel3{
+    width: 300px;
+    height: 200px;
+    background: #d46d72;
+    background-image: linear-gradient(90deg, #907ea8, #938597, #2b683d, #216d2b, #2f553f, #417944, #ff7747, #fb9633, #e2b72f, #c7d63c, #c7d63c);
+    position: relative;
+    margin: 30px;
+}
+.ttt1{
+    width: 200px;
+    height: 240px;
+    position: absolute;
+    top: -15px;
+    left: -10px;
+}
+.ttt2{
+    width: 200px;
+    height: 250px;
+    position: absolute;
+    top: -15px;
+    left: -30px;
+}
+.ttt3{
+    width: 200px;
+    height: 250px;
+    position: absolute;
+    top: -13px;
+    left: -10px;
+}
+.text1{
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+.text2{
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+.text3{
+    position: absolute;
+    top: 20px;
+    height: 20px;
+    right: 25px;
+}
+.tex1{
+    position: absolute;
+    top: 60px;
+    right: 15px;
+}
+.tex2{
+    position: absolute;
+    top: 60px;
+    right: 15px;
+}
+.tex3{
+    position: absolute;
+    top: 60px;
+    right: 15px;
+}
+
